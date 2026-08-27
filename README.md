@@ -57,16 +57,16 @@ Built full-stack features as part of a production development team; completed th
 
 ## Featured Projects
 
-**[Networking CRM](https://github.com/heredaniyal/networking-crm)**
+**[Networking CRM](https://github.com/daniyalsaqib/networking-crm)**
 Geographic contact management tool built on Next.js 14, PostgreSQL, and Leaflet — turns a 1,300+ entry contact list into a searchable, map-based CRM.
 
 **[Inbox Copilot](https://github.com/frdnu/SOFTEC-AI-HACKATHON-2026)** — *SOFTEC'26, team project*
 AI-assisted email triage tool built with FastAPI, Streamlit, and the Groq API (Llama 3.1). Built with team Panic Pointers.
 
-**[AI Resume Analyzer](https://github.com/heredaniyal/ai-resume-analyzer)**
+**[AI Resume Analyzer](https://github.com/daniyalsaqib/ai-resume-analyzer)**
 Resume feedback tool built collaboratively with Fardeen and Anwar.
 
-**[PatientZero (Prototype)](https://github.com/heredaniyal/PatientZero_Prototype)**
+**[PatientZero (Prototype)](https://github.com/daniyalsaqib/PatientZero_Prototype)**
 Horror-themed game prototype built in C# and Unity3D with Salman and Rafay for a Game Development elective.
 
 ---
@@ -80,6 +80,6 @@ Horror-themed game prototype built in C# and Unity3D with Salman and Rafay for a
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/daniyal-saqib-012142335/) · [GitHub](https://github.com/heredaniyal)
+[LinkedIn](https://www.linkedin.com/in/daniyal-saqib-012142335/) · [GitHub](https://github.com/daniyalsaqib)
 
 Open to full-stack development opportunities, internships, and collaborations on projects with real scope and a real team behind them.
